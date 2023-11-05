@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Mohammad Shaan
 - 👀 I’m interested in coding and developing.
 - 🌱 learning JavaScript.
-- Skills:- HTML,CSS,Bootstrap 4, JQuery,AJAX,JavasScript,PHP,Database, MySQL,Laravel, Angular and also known core java, Python.
+- Certificate on Core java and Python Programming
+- Skills:- HTML, CSS, Bootstrap 4, JQuery, AJAX, JavasScript, PHP, Database, MySQL, Laravel, Angular, and also known as core java, Python.
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
